@@ -10,3 +10,7 @@ content varchar(500) not null,
 author varchar(20) not null,
 regdate datetime default now());
 ```
+
+```
+테이블 만들기
+```
